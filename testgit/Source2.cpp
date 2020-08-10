@@ -1,4 +1,5 @@
 #include<stdio.h>
-main() {
+int main() {
 	printf("fat bird 2364");
+	return 0;
 }
