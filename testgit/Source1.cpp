@@ -1,2 +1,2 @@
 #include<stdio.h>
-main() { printf("cat"); }
+main() { printf("cat thai"); }
